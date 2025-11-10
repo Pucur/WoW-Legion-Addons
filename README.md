@@ -1,7 +1,7 @@
 # 🌟 WoW Addon Lista
 
 Üdv a **World of Warcraft addon gyűjteményem** listájában!  
-Külön ajánlom minden **Seekers of the Self** guild tagjainak! 😊  
+Külön ajánlom minden **[Seekers of the Self](https://www.wowseekers.reno.pe/)** guild tagjainak! 😊  
 Ezek az addonok mindegyik működik most a Tauri Legion 7.3.5 kliensével, a jelenlegi WoD contenttel is, külön itt egy lista a tartalmukról, illetbe részletesebb leírásokat megtalálod a **CurseForge linkjeiben** de az egészet egyben letöltheted itt a AddOns.zip fájlból, amit a Legion\Interface\AddOns\ mappába kell bemásolnod.  
 
 ![Így tudod letölteni a fájlt.](https://github.com/Pucur/WoW-Legion-Addons/raw/main/howtodownload.png)
